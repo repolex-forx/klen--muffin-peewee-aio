@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-peewee-aio",
+  "versions": [
+    {
+      "commit": "ffc6e9ef401e154fdbc6e26635602e160fabb73c",
+      "tag": "3.0.0",
+      "parsed_at": "2026-10-20T22:12:49.118266+00:00"
+    }
+  ]
+}
