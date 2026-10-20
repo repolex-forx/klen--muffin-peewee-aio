@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-peewee-aio/commit/ffc6e9ef401e154fdbc6e26635602e160fabb73c",
       "git:hexsha": "ffc6e9ef401e154fdbc6e26635602e160fabb73c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "3.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "3.0.0",
+      "repolex:parsedAt": "2026-10-20T22:12:49.098629+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/muffin-peewee-aio/commit/6095c571b426b06e6901c10db43ab190192765f6",
